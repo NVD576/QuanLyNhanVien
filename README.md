@@ -12,8 +12,8 @@
 - **Password:** `admin`  
 
 ## 🛠️ Công nghệ sử dụng
-- C# WinForms (hoặc WPF, nếu bạn dùng WPF)
-- .NET Framework / .NET (tùy project của bạn)
+- C# WinForms 
+- .NET Framework 
 
 ---
 
